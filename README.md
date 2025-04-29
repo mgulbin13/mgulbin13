@@ -9,7 +9,7 @@
 </div>
 
 ## Welcome to my Github! 
-I'm a data scientist with experience in software development and cybersecurity. I am currently looking for my next role in the field where I can develop my skills further.
+I'm a data scientist with experience in machine learning, software development, and cybersecurity. I am currently looking for my next role in the field where I can develop my skills further.
 Here, you can find my personal projects that I work on to bolster my skills and learn new technologies. Thanks for stopping by!
 
 <br />
