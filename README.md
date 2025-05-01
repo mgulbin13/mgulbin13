@@ -17,6 +17,8 @@ Here, you can find my personal projects that I work on to bolster my skills and 
 <br />
 🌱 Recent Flatiron School grad! I’m currently teaching myself more about deep learning and computer vision
 <br />
+🎓 BS in Computer Science from Worcester Polytechnic Institute
+<br />
 🕹️ <b>Hobbies:</b> Avid gamer, PC builder, Tennis player 
 
 
