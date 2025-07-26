@@ -15,7 +15,7 @@ Here, you can find my personal projects that I work on to bolster my skills and 
 <br />
 😄 <b>Pronouns:</b> He/him
 <br />
-🌱 Recent Flatiron School grad! I’m currently teaching myself more about deep learning and computer vision
+🌱 Recent Flatiron School grad! I’m currently teaching myself more about data visualization and Tableau!
 <br />
 🎓 BS in Computer Science from Worcester Polytechnic Institute
 <br />
